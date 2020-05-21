@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Listing out our things
+- Tritonal
+- Louis the Child
+- Mura Masa
